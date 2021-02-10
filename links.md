@@ -1,5 +1,6 @@
 ---
-layout: resume
+layout: page
+excerpt: "About Me..."
 ---
-## Currently
 
+Hello and welcome

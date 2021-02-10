@@ -2,9 +2,17 @@
 - title: Home
   url: /
 
-- title: Links
-  url: /links/
+- title: Presentations
+  url: /presentations/
 
+- title: CV
+  url: /cv/
+
+- title: Blog
+  url: /blog/
+
+- title: Workshops
+  url: /workshops/
 
 
 
